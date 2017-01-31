@@ -5,6 +5,7 @@
 	<groupId>name.hessenberger.sample</groupId>
 	<artifactId>spring-boot-angular2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
     <packaging>pom</packaging>
 	<name>spring-data-rest-and-angular2</name>
 	<description>Spring Data REST with Angular2</description>
@@ -13,7 +14,6 @@
         <module>backend</module>
         <module>frontend</module>
     </modules>
-
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
